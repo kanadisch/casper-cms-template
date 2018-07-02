@@ -15,7 +15,7 @@ canonifyurls = true
   author = "walker"
   authorlocation = "canada"
   authorwebsite = "minimalisttools.com/about"
-  bio= "my bio"
+  bio= "I get around."
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA00000"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
@@ -28,3 +28,16 @@ canonifyurls = true
   hideHUGOSupport = true
   [params.social]
     #twitter = "your_twitter"
+
+[[menu.main]]
+  name = "Home"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = -110
+  identifier = "about"
+  url = "/about"
+

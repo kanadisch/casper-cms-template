@@ -4,7 +4,7 @@ title: Overview
 ---
 Minimalism seems to be gaining in momentum and popularity as a function of living in a culture of excess. (I knew learning calculus would come in handy.)
 
-#### Why? An excess of empty calories, empty houses, inflated egos and empty wallets, according to more than a few (citations pending).
+##### Why? An excess of empty calories, empty houses, inflated egos and empty wallets, according to more than a few (citations pending).
 
 #### Who's Minimalism For?
 
