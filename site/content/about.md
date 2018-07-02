@@ -1,8 +1,15 @@
 +++
-date = "2016-09-09T10:15:23-04:00"
-draft = false
-title = "about"
-
+author = ""
+date = "2018-07-01T22:54:24+02:00"
+draft = true
+title = "About"
+slug = "about"
+tags = ["event","dotScale","sketchnote"]
+image = "images/2014/Jul/titledotscale.png"
+comments = false     # set false to hide Disqus comments
+share = true        # set false to share buttons
+menu = "main"           # set "main" to add this content to the main menu
 +++
 
-## This is where our page Markdown content lives.
+
+## Nothing more need be said.
